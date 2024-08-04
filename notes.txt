@@ -15,6 +15,8 @@ git commands:
 
 6- git push -u origin main (later: git push)
 
+7- git clone 'repo link' : clone a repo from git hub to your computer
+
 
 ------------
 
