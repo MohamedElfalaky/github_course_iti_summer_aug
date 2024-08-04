@@ -1,0 +1,9 @@
+
+
+git commands:
+1- git init (initiate locale repo but files are not tracked)
+
+2- git add . (move files from local repo to working area)
+
+3- git commit -m "message"
+
