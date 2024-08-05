@@ -25,6 +25,8 @@ git commands:
 
 11- git checkout 'branch name' (switch to selected branch)
 
+12- git checkout -b 'branch name' (create new branch and switch to the created branch)
+
 ------------
 
 Why branchs? 
