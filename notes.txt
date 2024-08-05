@@ -19,10 +19,22 @@ git commands:
 
 8- git pull : get data from remote repo to working area.
 
+9- git branch : shows available branches and current branch.
+
+10 - git branch 'branch name' (create new branch)
+
+11- git checkout 'branch name' (switch to selected branch)
 
 ------------
 
+Why branchs? 
+To avoid conflicts between current code and new code:
+1- Bug fix
+2- New versions
+3- New tasks
 
+
+-------------
 to push a change 
 
 1- git add . (moves files from local repo to working area)   
