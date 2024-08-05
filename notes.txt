@@ -17,6 +17,8 @@ git commands:
 
 7- git clone 'repo link' : clone a repo from git hub to your computer
 
+8- git pull : get data from remote repo to working area.
+
 
 ------------
 
