@@ -27,6 +27,7 @@ git commands:
 
 12- git checkout -b 'branch name' (create new branch and switch to the created branch)
 
+13- pull request (PR)
 ------------
 
 Why branchs? 
